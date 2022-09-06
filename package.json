@@ -34,8 +34,8 @@
     "start_windows": "set NODE_ENV=test node index.js",
     "start": "node index.js"
   },
-  "engines":{
-    "node":"v16.15.1"
+  "engines": {
+    "node": "v16.15.1"
   },
   "devDependencies": {
     "jest": "^28.1.3"
